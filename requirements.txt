@@ -1,0 +1,3 @@
+Required Python Packages:
+
+Pandas, Matplotlib, Skcit-learn, Pytorch, Tensorflow.
